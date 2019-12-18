@@ -18,4 +18,4 @@ Using play-ws-standalone and play-ws-standalone-json
 
 ## To run
 
-`sbt run "xslt"` or some such
+`sbt "run xslt"` or some such
